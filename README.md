@@ -11,6 +11,8 @@ Name of the venue
 Venue location
 Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+<p>
+
 2. When you enter node liri.js spotify-this-song '<song name here>'
 
 This will show the following information about the song in your terminal/bash window:
@@ -22,6 +24,8 @@ The album that the song is from
 
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 You will utilize the node-spotify-api package in order to retrieve song information from the Spotify API.
+
+<p>
 
 3. When you enter node liri.js movie-this '<movie name here>'
 
