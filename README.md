@@ -10,7 +10,6 @@ This will search the Bands in Town Artist Events API and give you the following:
 Name of the venue
 Venue location
 Date of the Event (use moment to format this as "MM/DD/YYYY")
-
 <br><br>
 
 2. When you enter node liri.js spotify-this-song '<song name here>'
@@ -24,7 +23,6 @@ The album that the song is from
 
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 You will utilize the node-spotify-api package in order to retrieve song information from the Spotify API.
-
 <br><br>
 
 3. When you enter node liri.js movie-this '<movie name here>'
@@ -42,7 +40,6 @@ This will output the following information to your terminal/bash window:
 
 
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-
 <br><br>
 
 4. node liri.js do-what-it-says
