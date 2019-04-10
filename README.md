@@ -26,10 +26,6 @@ If no song is provided then your program will default to "The Sign" by Ace of Ba
 You will utilize the node-spotify-api package in order to retrieve song information from the Spotify API.
 <br><br>
 
-<img src="assets/images/Screen Shot 2019-04-05 at 7.49.23 PM.png">
-
-<hl>
-
 <li>When you enter node liri.js movie-this '<movie name here>'
 
 This will output the following information to your terminal/bash window:
